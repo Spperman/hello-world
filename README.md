@@ -1,2 +1,8 @@
-＃garbled circuit
+爬虫新手上路
+
+环境需要
+  requests，bs4
+ 
+ 实现对小说网站单本小说的整体爬取
+
 
